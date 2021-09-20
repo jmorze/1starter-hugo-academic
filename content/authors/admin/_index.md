@@ -1,6 +1,6 @@
 ---
 role: Doctoral researcher
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: Lorem ipsum
 interests:
   - Artificial Intelligence
