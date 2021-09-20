@@ -31,6 +31,8 @@ education:
     - course: Doctor of Medicine (MD) - 2016 - (now)
       institution: University of Warmia and Mazury in Olsztyn
       year: ""
+    - course: PhD in Medical Sciences - 2019 - (now)
+      institution: University of Warmia and Mazury in Olsztyn
 email: ""
 superuser: true
 highlight_name: true
