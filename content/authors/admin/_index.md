@@ -3,9 +3,10 @@ role: Doctoral researcher
 avatar_filename: avatar.jpg
 bio: Lorem ipsum
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cardiovascular Diseases
+  - Epidemiology
+  - Human Nutrition
+  - Evidence-based Medicine
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,6 +39,6 @@ highlight_name: true
 title: Jakub Morze
 email: ""
 ---
-Hi! My name is Jakub Morze, and I'm a doctoral researcher at the Department of Cardiology and Internal Medicine of the University of Warmia and Mazury in Olsztyn, Poland. My thesis focuses on associations between circulating metabolites and heart failure risk. In this respect, I analyze data from large populational studies to identify a link between blood metabolites (small size molecules) measured using high-throughput techniques with chances to develop heart failure in longitudinal observation. My other research interests include nutritional & molecular epidemiology, as well as medical evidence synthesis.
+Hi! My name is Jakub Morze, and I'm a doctoral researcher at the Department of Cardiology and Internal Medicine of the University of Warmia and Mazury in Olsztyn, Poland. My thesis focuses on associations between circulating metabolites and heart failure risk. In this respect, I analyze data from large populational studies to identify a link between blood metabolites (small size molecules) measured using high-throughput techniques with chances to develop heart failure in longitudinal observation. My other research projects cover nutritional & molecular epidemiology, as well as medical evidence synthesis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
