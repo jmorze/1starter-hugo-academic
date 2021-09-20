@@ -1,6 +1,6 @@
 ---
-title: Jakub Morze
 role: Doctoral researcher
+avatar_filename: img_2836.jpg
 bio: Lorem ipsum
 interests:
   - Artificial Intelligence
@@ -33,9 +33,10 @@ education:
       year: ""
     - course: PhD in Medical Sciences - 2019 - (now)
       institution: University of Warmia and Mazury in Olsztyn
-email: ""
 superuser: true
 highlight_name: true
+title: Jakub Morze
+email: ""
 ---
 Hi! My name is Jakub Morze, and I'm a doctoral researcher at the Department of Cardiology and Internal Medicine of the University of Warmia and Mazury in Olsztyn, Poland. My thesis focuses on associations between circulating metabolites and heart failure risk. In this respect, I analyze data from large populational studies to identify a link between blood metabolites (small size molecules) measured using high-throughput techniques with chances to develop heart failure in longitudinal observation. My other research interests include nutritional & molecular epidemiology, as well as medical evidence synthesis.
 
