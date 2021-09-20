@@ -13,12 +13,12 @@ experience:
       * Analysing * Modelling * Deploying
   - title: Visiting Scholar
     company: Harvard T.H. Chan School of Public Health
-    company_url: ""
+    company_url: "https://www.hsph.harvard.edu/"
     company_logo: shield1
     location: Boston, MA
     date_start: 2019-07-01
     date_end: 2020-06-30
-    description: Taught electrs.
+    description: Work on metabolomics and diabetes in the research group led by Professor Frank B. Hu MD, PhD.
 widget_id: my-widget-123
 weight: 40
 active: true
