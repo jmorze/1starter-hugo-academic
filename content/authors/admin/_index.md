@@ -23,12 +23,12 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: University of Warmia and Mazury in Olsztyn
-    url: http://www.uwm.edu.pl/en
-  - name: School of Medicine
-    url: https://wl.uwm.edu.pl/en/
   - name: Department of Cardiology and Internal Medicine
     url: https://wl.uwm.edu.pl/en/kkk
+  - name: School of Medicine
+    url: https://wl.uwm.edu.pl/en/
+  - name: University of Warmia and Mazury in Olsztyn
+    url: http://www.uwm.edu.pl/en
 education:
   courses:
     - course: Doctor of Medicine (MD) - 2016 - (now)
