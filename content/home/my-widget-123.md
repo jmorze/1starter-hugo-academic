@@ -12,11 +12,11 @@ experience:
       Responsibilities include:
       * Analysing * Modelling * Deploying
   - title: Visiting Scholar
-    company: University X
+    company: Harvard T.H. Chan School of Public Health
     company_url: ""
     location: California
-    date_start: 2016-01-01
-    date_end: 2016-12-31
+    date_start: 2019-07-01
+    date_end: 2020-06-30
     description: Taught electronic engineering and researched semiconductor physics.
 widget_id: my-widget-123
 weight: 40
