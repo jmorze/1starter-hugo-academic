@@ -14,6 +14,7 @@ experience:
   - title: Visiting Scholar
     company: Harvard T.H. Chan School of Public Health
     company_url: ""
+    company_logo: shield1.png
     location: Boston, MA
     date_start: 2019-07-01
     date_end: 2020-06-30
