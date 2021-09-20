@@ -25,7 +25,7 @@ social:
 organizations: []
 education:
   courses:
-    - course: Doctor of Medicine (MD)
+    - course: Doctor of Medicine (MD) - 2016 - (now)
       institution: University of Warmia and Mazury in Olsztyn
       year: ""
 email: ""
