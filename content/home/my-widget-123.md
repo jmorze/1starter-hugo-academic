@@ -14,11 +14,11 @@ experience:
   - title: Visiting Scholar
     company: Harvard T.H. Chan School of Public Health
     company_url: ""
-    company_logo: shield1
+    company_logo: shield1.svg
     location: Boston, MA
     date_start: 2019-07-01
     date_end: 2020-06-30
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Taught electrs.
 widget_id: my-widget-123
 weight: 40
 active: true
