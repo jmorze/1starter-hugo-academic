@@ -1,16 +1,11 @@
 ---
 title: "Impact of different training modalities on anthropometric outcomes in
   patients with obesity: A systematic review and network meta-analysis"
+subtitle: Jakub Morze, Gerta Rücker, Anna Danielewicz, Katarzyna Przybyłowicz,
+  Manuela Neuenschwander, Sabrina Schlesinger, Lukas Schwingshackl
 publication_types:
   - "0"
-authors:
-  - Jakub Morze
-  - Gerta Rücker
-  - Anna Danielewicz
-  - Katarzyna Przybyłowicz
-  - Manuela Neuenschwander
-  - Sabrina Schlesinger
-  - Lukas Schwingshackl
+authors: []
 abstract: ""
 draft: false
 featured: false
